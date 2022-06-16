@@ -8,4 +8,4 @@ Actualmente estoy estudiando para la certificación AZ-900.
 
 📫 Me pueden contactar al correo: brenda.rosas.e@outlook.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendaRosasE)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendaRosasE&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
